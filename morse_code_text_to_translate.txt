@@ -1,0 +1,3 @@
+Hello there!  This is a test of the emergency broadcast system.
+If you can read this, then you are a better person than I.
+It all looks like a bunch of dashes and dots to me. 
